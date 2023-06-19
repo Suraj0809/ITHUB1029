@@ -1,0 +1,48 @@
+#h3 {
+    color: plum
+}
+
+#h3-new {
+    color: palegreen
+}
+
+.large-font {
+    font-size: xx-large;
+}
+
+.color-green {
+    color: green
+}
+
+.border-class {
+    border-color: blueviolet;
+    border-width: 2px;
+    padding: 10px;
+    margin: 10px;
+}
+.color-red {
+    color: red
+}
+#h4{
+    color:aqua
+}
+.large{
+    font-size:x-large;
+}
+.border-class1{
+    border-color: blueviolet;
+    border-width: 2px;
+    padding: 10px;
+    margin: 10px;
+}
+#h5{
+    color:yellowgreen
+}
+#h6{
+    color:tomato
+}
+#h7{
+    color:darkblue
+}
+#h8{
+    color:rgba(22, 94, 40, 0.934)
